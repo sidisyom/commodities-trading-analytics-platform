@@ -22,7 +22,7 @@ Some future improvements might include:
   the way clients can access the endpoints.
 - **Security**:
   The endpoints aren't secured so some form of authentication/authorisation scheme will be required (perhaps OAuth)
--**Performance**:
+- **Performance**:
   It might be useful to capture some performance-related requirements (perhaps, driven by the business) and generate
   automated performance tests which will prove that the required SLA's are made and deployments can be carried-out with
   confidence.
