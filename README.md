@@ -12,9 +12,9 @@ Included is also a bash script (_test_data_generator.sh_ in the root directory) 
 some analytics data (aka insights). The script will run on any GNU/Linux OS and _should_ run on MacOS
 (assuming bash is installed) and naturally the application needs to have been started and bound to port 8080. The file
 permissions may need to be changed in order to run the script. This can be done by running:
-`chmod +x test_data_generator.sh` on a GNU/Linux / Unix / MacOs.
+`chmod +x test_data_generator.sh` on GNU/Linux / Unix / MacOs.
 
-As usual, the project dependencies and their versions can be viewed in the build.gradle.kts project file.
+As usual, the project dependencies and their versions can be viewed in the _build.gradle.kts_ project file.
 
 Some future improvements might include:
 - **Swagger**:
