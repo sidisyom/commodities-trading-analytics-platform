@@ -1,7 +1,7 @@
 # commodities-trading-analytics-platform
 
-The responsibility of the Commodities-Trading-Analytics service is to provide a means to consumers (services, web, mobile)
-of saving trade commodity data as well as retrieving these and other analytics data that the service calculates.
+The responsibility of the Commodities-Trading-Analytics service is to provide a means for consumers (services, web, mobile)
+to save trade commodity data as well as to retrieve these and other analytics data that the service calculates.
 
 The service can be started by running the main() function inside **src/main/kotlin/Main.kt** in your IDE or alternatively
 on the command line if an executable jar file has been built and its endpoints can be accessed at:
